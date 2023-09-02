@@ -84,5 +84,4 @@ Open the Jupyter Notebook in the starter code folder named *part_2_mars_weather.
   6. Export the DataFrame to a CSV file.
 
 
-**Notes**
 
